@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "random-words": "^2.0.1"
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaydarekar5252/Backend.git"
+  },
+  "author": "akshay darekar",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/akshaydarekar5252/Backend/issues"
+  },
+  "homepage": "https://github.com/akshaydarekar5252/Backend#readme"
+}

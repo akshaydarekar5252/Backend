@@ -11,5 +11,13 @@
 // for (let i=2; i<args.length; i++){
 //     console.log("hello ------ ", args[i]);
 // }
-const info = require("./fruits");
-console.log(info);
+// const info = require("./fruits");
+// console.log(info);
+
+
+//import
+
+import {sum,PI} from "./math.js";
+import { generate } from "random-words";
+
+console.log(generate());
